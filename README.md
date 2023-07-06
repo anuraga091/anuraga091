@@ -1,10 +1,14 @@
 - 👋 Hi, I’m Anurag (@anuraga091)
 
-- 👀 A 4th-year Student and frontend developer with good problem-solving skills, possessing skills in React, Redux, JavaScript, and Python and having the ability to perform well in a team, take ownership, and am also familiar with agile methodology. Passionate about development, startup, and product management
+- 👀 A frontend developer with good problem-solving skills, possessing skills in React, Next.js, Redux, JavaScript and having the ability to perform well in a team, take ownership, and am also familiar with agile methodology. Passionate about development, startup, and product management
+- 
+- 💞️ Currently working at Janitri Innovations as Founding Frontend Developer and maintianing there legacy SaaS based Dashboard which is used by 100s of medical facilities.
+- Building New Dashboard Module by Module to remove dependency from Old one which work like tech debt, Completed their real time monitoring module.
+- Built Internal Dashboard which will be used to various operations for the company whose stakeholders are Customer Success Team, Founders/Management and Investors.
+  
+- 🌱 Completed Electronics and Communication Engineering from M.S Ramaiah University Of Applied Sciences.
 
-- 🌱 I am doing Electronics and Communication Engineering from M.S Ramaiah University Of Applied Sciences.
-
-- 💞️ I am doing internship at Fountain9 (YC W21) as Frontend Developer Intern. During my internship at Fountain9, I am responsible for some of their upcoming projects and also responsible for some bug fixes including cross browser security issue. 
+- 💞️ Completed internship at Fountain9 (YC W21) as Frontend Developer Intern. During my internship at Fountain9, I was responsible for some of their upcoming projects, optimizing filter modules and also responsible for some bug fixes including cross browser security issue. 
 
 - 💞️ I did internship at Omniflo as Software Developer Intern. During my internship at Omniflo, I was responsible for building Frontend of their D2C project from Scratch and I had to work with the team comprising backend, product and design.
 
