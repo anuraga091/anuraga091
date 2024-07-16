@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anurag (@anuraga091)
+- 👋 Hi, I’m Anurag Nigam
 
 - 👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications. Skilled in React.js, Next.js, React Native, JavaScript and modern frontend technologies with project experience in backend development, cloud and databases.
   
