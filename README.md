@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Anurag Nigam
 
 - 👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications. Skilled in React.js, Next.js, React Native, JavaScript and modern frontend technologies with project experience in backend development, cloud and databases.
+
+- Working at SpotDraft as Software Engineer
   
 - 💞️ Worked at Janitri Innovations as Founding Frontend Developer and Architected and implemented the frontend code from scratch for a real time labor monitoring web solution, improving
 decision-making processes in 400+ hospitals.
