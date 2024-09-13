@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anuraga091/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deveshtiwarii" height="30" width="40" style= 'filter: invert(100%)' /></a>
-<a href="https://twitter.com/anuraga091" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png"/></a>
+<a href="https://www.linkedin.com/in/anuraga091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" alt="anuraga091"/></a>
+<a href="https://twitter.com/anuraga091" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png" height="30" width="40" alt="anuraga091"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
