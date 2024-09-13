@@ -77,6 +77,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=anuraga091n&show_icons=true alt=anuraga091 /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=anuraga091&show_icons=true alt=anuraga091 /> </p>
 
 
