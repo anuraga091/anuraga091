@@ -3,7 +3,7 @@ anuraga091/anuraga091 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👋 Hi, I’m Anurag Nigam</h1>
-<h3 align="center">👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications. Skilled in React.js, Next.js, React Native, Angular, JavaScript and modern frontend technologies with project experience in backend development, cloud and databases.</h3>
+<p align="center">👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraga091" alt="anurag" /> </p>
 
