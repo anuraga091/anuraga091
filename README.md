@@ -1,37 +1,29 @@
-- 👋 Hi, I’m Anurag Nigam
-
-- 👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications. Skilled in React.js, Next.js, React Native, JavaScript and modern frontend technologies with project experience in backend development, cloud and databases.
-
-- Working at SpotDraft as Software Engineer
-  
-- 💞️ Worked at Janitri Innovations as Founding Frontend Developer and Architected and implemented the frontend code from scratch for a real time labor monitoring web solution, improving
-decision-making processes in 400+ hospitals.
-- Built Internal Dashboard which will be used to various operations for the company whose stakeholders are Customer Success Team, Founders/Management and Investors.
-  
-- 🌱 Completed Electronics and Communication Engineering from M.S Ramaiah University Of Applied Sciences in 2023.
-
-- 💞️ Completed internship at Fountain9 (YC W21) as Frontend Developer Intern. During my internship at Fountain9, I was responsible for some of their upcoming projects, optimizing filter modules and also responsible for some bug fixes including cross browser security issue. 
-
-- 💞️ I did internship at Omniflo as Software Developer Intern. During my internship at Omniflo, I was responsible for building Frontend of their D2C project from Scratch and I had to work with the team comprising backend, product and design.
-
-- 📫 You can reach me out through twitter[https://twitter.com/anuraga091], linkedin [https://www.linkedin.com/in/anuraga091/] and email [anuraga091@gmail.com]
-
-- I am very passionate about startup ecosystem and working in fast paced environments and exploring more opportunities within the team. I am also upskilling myself to grow my skills to full stack development and product management. 
 <!---
 anuraga091/anuraga091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Devesh kumar Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hi, I’m Anurag Nigam</h1>
+<h3 align="center">👀 Frontend Developer with 2+ years of experience in developing scalable web and mobile applications. Skilled in React.js, Next.js, React Native, Angular, JavaScript and modern frontend technologies with project experience in backend development, cloud and databases.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeforme1234&label=Profile%20views&color=0e75b6&style=flat" alt="codeforme1234" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraga091&label=Profile%20views&color=brightgreen&style=flat" alt="codeforme1234" /> </p>
 
-- 📫 How to reach me **deveshtiwari2511@gmail.com**
+- 🤔 I’m looking for help with **Angular, React, Backend stuffs**
+
+- 💬 Ask me about **early career and startups**
+
+- 📫 Reach me at **anuraga091@gmail.com**
+
+- 👨‍💻 Most of my projects are private, ping me on linkedin/email to know what I am working on.
+
+- ⚡ Fun fact **Most of the time I would be working on billion dollar ideas**
+
+- **💞️ Working at SpotDraft as Software Engineer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deveshtiwarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deveshtiwarii" height="30" width="40" /></a>
-<a href="https://instagram.com/believer._69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="believer.69" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deveshtiwarii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deveshtiwarii" height="30" width="40" /></a>
+<a href="https://twitter.com/anuraga091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="believer.69" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
