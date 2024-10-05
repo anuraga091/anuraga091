@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **early career and startups**
 
-- 📫 Reach me at **anuraga091@gmail.com**
+- 📫 Reach me at **anuragnigam091@gmail.com**
 
 - 👨‍💻 Most of my projects are private, ping me on linkedin/email to know what I am working on.
 
@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anuraga091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"               alt="anuraga091"/></a>
-  <a href="https://twitter.com/anuraga091" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png" height="50" width="50" alt="anuraga091"/></a>
+  <a href="https://www.linkedin.com/in/anuragnigam091/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30"               alt="anuragnigam091"/></a>
+  <a href="https://twitter.com/anuragnigam091" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png" height="50" width="50" alt="anuragnigam091"/></a>
 </p>
 
 <h3 align="left">Programming Skills</h3>
